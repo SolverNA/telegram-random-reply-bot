@@ -1,0 +1,12 @@
+{
+  "name": "tg-random-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot that replies to random messages",
+  "main": "api/webhook.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
